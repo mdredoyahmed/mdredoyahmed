@@ -15,9 +15,6 @@
                 <br>
         </samp>
 </h2>
-
-**mdredoyahmed/mdredoyahmed**
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mern-Stake Web developer.
@@ -28,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 <ol>
     <li><a href="https://www.facebook.com/habibadnan.adnan.167/">Facebook</a><li>
+    <li><a href="">Twiter</a></li>
     <li><a href="https://www.linkedin.com/in/redoy-ahmed-106b5b20a/">Linkedin</a></li>
 </ol>
 
