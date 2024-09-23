@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with New clients.
 - 💬 Ask me about the project.
 - 📫 How to reach me: 
-<ol>
+<ol align="center">
     <li><a href="https://www.facebook.com/habibadnan.adnan.167/">Facebook</a><li>
     <li><a href="">Twiter</a></li>
     <li><a href="https://www.linkedin.com/in/redoy-ahmed-106b5b20a/">Linkedin</a></li>
