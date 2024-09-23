@@ -58,17 +58,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/redoy-ahmed-106b5b20a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""></a>
 <a href="https://www.facebook.com/habibadnan.adnan.167/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt=""></a>
 
-[<img align="left" alt="DS-Popeye | LinkedIn" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="DS-Popeye | Twitter" width="30" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="DS-Popeye | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="DS-Popeye | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][facebook]
-<br>
-<hr>
-[linkedin]: https://www.linkedin.com/in/redoy-ahmed-106b5b20a/
-[twitter]: https://twitter.com
-[instagram]: https://www.instagram.com
-[facebook]: https://www.facebook.com/habibadnan.adnan.167/
-
 <br> <br>
 
 [![wakatime](https://wakatime.com/badge/user/018e05a3-37ab-40b7-83f1-6d1392ed53cc.svg)](https://wakatime.com/@018e05a3-37ab-40b7-83f1-6d1392ed53cc)
