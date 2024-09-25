@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">
-        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
+        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi !, I am
                 <b><a target="_blank" href="https://github.com/mdredoyahmed">MD Redoy Ahmed</a></b>
         </samp>
 </h1>
