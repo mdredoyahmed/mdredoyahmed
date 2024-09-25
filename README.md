@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <h1 align="center">
-        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi !, I am
+        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there !, I am
                 <b><a target="_blank" href="https://github.com/mdredoyahmed">MD Redoy Ahmed</a></b>
         </samp>
 </h1>
@@ -10,7 +10,7 @@
         <samp>
           <a href="https://www.google.com/search?q=MD+Redoy+Ahmed">「 Google Me 」</a> 
                 <br>
-                「 I am a Computer Science and Engineering Student. And now learning full stack web appplication development from <b>Bangladesh</b> 」
+                「 I am a MERN Stack Developer.from <b>Bangladesh</b> 」
                 <br>
                 <br>
         </samp>
